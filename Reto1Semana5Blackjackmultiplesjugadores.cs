@@ -4,6 +4,8 @@ namespace Blackjackmultiplesjugadores
 {
     class Program
     {
+
+//profe mil disculpas no hay video, estoy muy agripado.
         static void Main(string[] args)
         {
             int numerojugadores = 0, jugadores = 0;
